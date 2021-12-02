@@ -1,0 +1,12 @@
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\Tugas.csprojAssemblyReference.cache
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.HasilPerhitungan.resources
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Calculator.resources
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\Tugas.csproj.GenerateResource.cache
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
+C:\Users\HEWLETT PACKARD\Documents\kuliah amikom\semester 3\pemrograman lanjut\TugasDelegateEvent\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
